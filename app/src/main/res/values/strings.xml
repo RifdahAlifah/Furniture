@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MyRecycler</string>
+    <string name="text_name">Name</string>
+    <string name="text_description">Description</string>
+    <string name="text_price">Price</string>
+    <string name="text_myfurniture">MyFurniture</string>
+    <string-array name="data_name">
+        <item>Kursi Cessi</item>
+        <item>Kursi Emma Accent</item>
+        <item>Meja Makan Tasha Squar</item>
+        <item>Lemari Bufet Onyx</item>
+        <item>Lemari Bufet Mikku</item>
+        <item>Meja Tamu Chloe - Set of 3</item>
+        <item>Sofa 2 Dudukan Bran (Brill Black)</item>
+        <item>Tanaman Tiruan Latex Tulip</item>
+        <item>Tanaman Tiruan Bird tree</item>
+        <item>Olympia Lampu Lantai Minimalis Indoor</item>
+        <item>Nakas Wellington</item>
+        <item>Nakas Tromso</item>
+        <item>Sofa Recliner Amidi</item>
+        <item>Sofa Bed Sheena</item>
+        <item>Sofa Recliner Luna</item>
+        <item>Karpet Lukas Plush Large - Beige</item>
+        <item>Karpet Merry Medium</item>
+        <item>Meja Rias Emily (Type A)</item>
+        <item>Lemari Pakaian Blitar (Walnut)</item>
+        <item>Tempat Tidur Besi Marie (Queen)</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp 224.250</item>
+        <item>Rp 324.350</item>
+        <item>Rp 749.250</item>
+        <item>Rp 1.874.250</item>
+        <item>Rp 2.399.200</item>
+        <item>Rp 1.424.250</item>
+        <item>Rp 1.574.100</item>
+        <item>Rp 64.350</item>
+        <item>Rp 479.200</item>
+        <item>Rp 699.300</item>
+        <item>Rp 809.100</item>
+        <item>Rp 599.200</item>
+        <item>Rp 2.449.300</item>
+        <item>Rp 1.049.250</item>
+        <item>Rp 2.124.150</item>
+        <item>Rp 1.274.250</item>
+        <item>Rp 149.250</item>
+        <item>Rp 1.979.100</item>
+        <item>Rp 1.979.100</item>
+        <item>Rp 1.599.200</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Keunikan Kursi Cessi terlihat jelas dari desainnya yang minimalis dengan kesan yang unik. Kursi ini akan cocok untuk suasana ruang makan apapun. Terbuat dari kombinasi sempurna dari 3 material. Rubberwood solid dan metal pada kakinya, serta PP plastic pada dudukannya. Membuat bangku ini tidak hanya cantik, tapi juga memiliki ketahanan yang tak perlu diragukan. Letakkan kursi makan ini dengan gaya meja makan apapun, tampilannya akan memberikan suasana eksentrik di rumah kamu.</item>
+        <item>Mencari kursi yang nyaman sekaligus unik? Hadirkan Kursi Emma Accent di ruanganmu. Kursi minimalis ini punya desain khas yang mampu membuatnya jadi focal piece di ruangan. Dudukan dan sandaran Kursi Emma Accent dilapisi bahab polyurethane, sedangkan kekuatan rangkanya didukung oleh kayu beech solid. Tersedia dalam 4 pilihan warna yang mudah membaur di segala gaya interior, ekspresikan ruang makan impianmu bersama Kursi Emma Accent.</item>
+        <item>Rumah minimalis bukan berarti membatasimu dalam mempercantik ruangan. Meja Makan Tasha Square memiliki tampilan yang unik serta ukurannya yang pas untuk membuat suasana makan bersama orang tersayang semakin intim. Tampilannya yang cantik disempurnakan dengan ketahanannya yang tak perlu diragukan. Penampangnya terbuat dari lapisan PVC berwarna hitam elegan, dipadukan dengan kaki kokoh bermaterial kayu dengan nuansa natural. Meja Makan Tasha Square akan semakin serasi dipasangkan dengan 2 atau 4 buah kursi dengan warna senada.</item>
+        <item>Paduan gaya minimalis dan industrial sangat terasa pada Lemari Bufet Onyx. Lebih dari estetika, sideboard satu ini juga dibekali dengan ruang penyimpanan luas. Memiliki total 9 tempat penyimpanan dengan penutup, Lemari Bufet Onyx dibuat dari material particle board dan MDF yang sudah dikurasi sebaik mungkin untuk hasil furnitur tahan lama. Mudah menghias Lemari Bufet Onyx di ruangan, jadikan ia sebagai tempat penyimpanan barang, sekaligus sudut kenangan dengan tambahan bingkai foto di atasnya</item>
+        <item>Nuansa tradisional yang dipadukan dengan kebutuhan modern memang mempesona. Itulah Sideboard Mikku dengan aksen rotan khas furnitur tempo dulu, tapi tetap memiliki fungsionalitas furnitur modern. 3 pintu geser, 2 laci dan 1 rak terbuka jadi andalannya untuk menyimpan keperluanmu. Untuk kemudahan, laci Sideboard Mikku dilengapi rel besi. Siapapun yang menginginkan nuansa tradisional di ruangan modern, Sideboard Mikku adalah pilihanmu.</item>
+        <item>Chloe Slim Coffee Table Set berangkat dari gaya Skandinavia yang tidak hanya simpel, tapi juga memiliki sentuhan desain yang unik sehingga dapat memberikan suasana baru yang menarik pada ruangan sekaligus fungsional. Terdiri dari 3 meja yang dapat disusun secara bersamaan atau terpisah, membuat meja ini dapat menaruh banyak lebih banyak. Terbuat dari material MDF, membuat Meja Chloe ringan untuk dipindahkan, sehingga memudahkan kamu saat menata ruangan. Ketiga warnanya yang bervariasi namun tetap netral membuat meja ini mudah dipadukan dengan furnitur lain dan tetap memberi kesan dinamis pada ruangan.</item>
+        <item>Momen spesial dengan orang-orang terdekat akan menjadi semakin berharga dengan kehadiran Sofa 2 Dudukan Bran. Memahami bahwa kenyamanan merupakan hal yang sulit untuk dikompromi, sofa ini menawarkan dudukan yang nyaman dilengkapi sandaran dan armrest. Tersedia dalam warna yang netral dan ukuran yang mungil namun compact, menjadikan sofa ini mudah disesuaikan dengan beragam suasana ruang keluargamu.</item>
+        <item>Memberi kesan segar di ruangan kini lebih sederhana. Bagimu yang tak punya banyak waktu untuk merawat tanaman, Tanaman Tiruan Latex Tulip solusinya. Punya banyak kegiatan, bukan masalah. Tanaman ini tak memerlukan perawatan khusus berkat material polyurethane dan kawat besi. Tempatkan tanaman tiruan ini di samping sofa, atau sebagai pelengkap di ruang kerja.</item>
+        <item>Artificial Bird tree yang cantik dan manis untuk dekorasi rumahmu. Material terbaik membuat tanaman tiruan ini tak perlu perawatan khusus. Potnya diperkuat oleh plastik polipropilena dan beton, sedangkan tanaman tiruannya dibuat dari baja, plastik polietilena dan EVA. Tanaman tiruan ini cocok ditempatkan di ruang tamu, atau sebagai dekorasi di dekat pintu masuk. </item>
+        <item>Lampu multi-fungsi yang bisa kamu gunakan sebagai lampu belajar, tidur, hingga lampu baca. Dialah Lampu Lantai Olympia, si serbaguna dengan desain yang minimalis. Kapnya bermaterial alumunium/epoxy powder dapat disesuaikan mengarahkan cahaya dan kakinya berbahan besi/epoxy powder. Lampu ini memiliki tampilan yang unik namun tetap simpel, dilengkapi dengan warna netral dan elegan sehingga menjadikannya pelengkap manis di sudut ruangan bergaya apapun.</item>
+        <item>Mengusung mode ergonomis dengan sentuhan chic pada desainnya, Nakas Wellington menawarkan tempat penyimpanan dengan tiga laci lapang sebagai tempat menaruh berbagai kebutuhan, mulai dari alat tulis hingga buku bacaan. Memiliki kerangka yang terbuat dari kayu solid, Nakas Wellington unggul dari segi kekuatan dan ketahannya. Perpaduan finishing putih dan warna kayu Natural ataupun Dark membuat Nakas Wellington mampu memberikan kesan ringan dan adem pada ruangan, cocok untuk dipadukan dengan majalah atau tanaman favorit untuk mempercantik estetika hunianmu. </item>
+        <item>Tahukah kamu bahwa penggunaan warna putih dapat memberikan kesan ruangan yang lebih lapang? Bagi kamu yang tak ingin kamar tidur terasa penuh dan sempit, Nakas Tromso adalah solusi terbaik. Dibuat dari material kayu berkualitas, membuat Nakas Tromso dapat bertahan lama. Finishing putih dengan efek kilap pada badan meja pun membuat Nakas Tromso terlihat lebih menawan. Mengusung konsep kontemporer, Nakas Tromso berhasil menghadirkan kekokohan furnitur dengan desain yang cantik dipandang. Apalagi bagi hunian bergaya Skandinavia, tampilan meja yang minimalis membuat ruangan kian berkelas. </item>
+        <item>Setelah menjalani hari yang panjang, kamu pasti ingin bersantai dan mengistirahatkan tubuh dari lelahnya hari. Sofa Recliner Amidi hadir untuk mengakomodir kebutuhan bersantai kamu di rumah. Busa dengan pegas yang nyaman, lengkap dengan lapisan kulit sintetis yang mudah dibersihkan, Sofa Recliner Amidi jadi pilihan sempurna untuk bersantai. Atau, saat merasa lelah, cukup rebahkan sandarannya untuk beristirahat sejenak. Beristirahat nggak pernah semudah ini.Padankan Sofa Recliner Amidi dengan beragam gaya interior, mulai dari skandinavia hingga klasik modern. Tersedia 3 pilihan warna netral klasik yang bisa kamu pilih, yaitu coklat tua, coklat muda dan beige.</item>
+        <item>Rumah mungil? Bukan masalah. Dengan Sofa Tempat Tidur Sheena, tidak perlu khawatir soal ruang, kenyamanan, juga gaya. Sofa tempat tidur dengan banyak pilihan warna ini siap menemanimu, saat duduk santai maupun tidur tenang.Ukurannya yang pas sangat cocok ditempatkan pada ruangan yang terbatas. Tidak hanya itu saja, kerangka kayu solid yang di pakai bisa menopang tubuh dengan nyaman. Sofa tempat tidur dengan banyak pilihan warna ini siap menemanimu, saat duduk santai maupun tidur tenang.</item>
+        <item>Setelah menjalani hari yang panjang, pasti ingin bersantai dan mengistirahatkan tubuh dari lelahnya hari. Recliner Luna hadir untuk mengakomodir kebutuhan bersantai dirumah.Kursi malas ini dibuat secara khusus untuk menopang tubuh dengan nyaman dan aman. Tak seperti kursi biasa yang kaku, Recliner Luna memiliki tiga mode bentuk utama, mulai dari posisi duduk tegak hingga merebah seluruhnya. Nikmati waktu melepas penat setelah seharian bekerja dengan Recliner Luna.</item>
+        <item>Kelebihan utama dari Karpet Makenna terdapat pada warnanya. Warna beige merupakan salah satu warna favorit karena tak lekang oleh waktu. Dengan menggunakan bahan dasar microfiber, karpet ini sangat terasa halus, nyaman dan juga mudah dibersihkan. Warnanya yang netral dan desainnya yang minimalis menjadikan karpet ini mudah menyatu dengan ruangan dan furnitur apa pun.</item>
+        <item>Hidupkan suasana hunianmu dengan Karpet Merry. Karpet minimalis ala Scandinavian dengan aksen modern ini akan memberikan kesan unik dan menarik di ruanganmu. Karpet ini menggunakan material dasar nylon sehingga terasa empuk dan lembut, serta tidak licin ketika digunakan sehingga aman bagi siapa pun yang menggunakannya. Cocok untuk kamu yang suka dengan gaya eklektik untuk membuat ruangan lebih berwarna.Padukan dengan furnitur dengan warna yang senada, dan kamu akan mendapatkan ruangan yang manis dan menyegarkan</item>
+        <item>Meja rias adalah salah satu komponen penting pada ruang tidur kamu terutama bagi kaum hawa, itulah mengapa kehadiran Meja Rias Emily (Type A) sangat dinanti-nantikan. Kerangka yang terbuat dari PB &amp; MDF serta finishing wood texture paper membuat meja rias ini kokoh dan mudah untuk kamu bersihkan. hadir dengan laci yang luas yang bisa kamu jadikan tempat pemyimpanan alat riasan kamu mulai dari makeup, hingga dengan hair dryer. Meja rias dengan desain yang minimalis ini juga hadir dengan cermin dan lengkap dengan stool untuk kamu duduk, jadi kamu tidak perlu repot mencari dudukan untuk pasangan meja ini. Yuk, hadirkan Meja Rias Emily yang siap temani kamu mempercantik diri juga ruangan kamu!</item>
+        <item>Ingin memberikan sentuhan rustic di ruanganmu? Lemari Pakaian Blitar pilihan yang tepat untukmu. Finishing kayu memberikan kesan unfinished, namun warna hitam pada Lemari Pakaian Blitar mempertahankan nuansa modern pada ruanganmu. Material yang terbuat dari bahan MDF, membuat Lemari Pakaian Blitar dapat diandalkan ketahanannya. Disertai dengan kompartemen yang memiliki kunci, lemari ini pun menawarkan rasa aman untuk menyimpan berbagai barang berharga di dalamnya. Perpaduan warna hitam dengan finishing kayu yang melekat pada Lemari Pakaian Blitar bisa dengan mudahnya menyatu dengan ruangan bergaya modern industrial.</item>
+        <item>Khawatir tempat tidurmu rapuh karena jamur atau rayap? Tempat Tidur Besi Marie adalah solusi tepat. Dengan material besi dan warna yang elegan menciptakan kesan industrial yang modern. Kerangka besi yang kuat dan finishing coated pada sandaran membuatnya tetap nyaman untuk sekedar membaca buku atau bersandar. Pada bagian headboard terdapat aksen desain berbentuk kerangka sederhana, membuat tempat tidur ini terlihat lebih cantik.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn-m2.fabelio.com/catalog/product/k/u/kursim_cessi_black_a_21_hires.jpg?auto=format&amp;w=1446&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/u/n/untitled_design_16_.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/m/e/meja_makan_tasha__black__01_1.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_a_21_hires_1.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_sideboard-_3_.jpg?auto=format&amp;h=640&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/c/h/chloe_coffee_table_context1_7.jpg?auto=format&amp;h=640&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/s/o/sofa2d_bran_brillblack_a_21_hires_1_.jpg?auto=format&amp;h=640&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/t/u/tulip_gr.jpg?auto=format&amp;w=1446&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/b/r/brdtree.jpg?auto=format&amp;h=640&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_olympia_day_a_21_hires.jpg?auto=format&amp;w=1446&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/6/s/6s5a0269_1_.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/t/r/Tromso_Side_Table_0.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/a/m/amidi-recliner-_dark-brown_-_9__1.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/s/o/sofabd_sheena_beige_a_ori_lowres_1.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/l/u/luna-recliner-_beige_-_13_.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/m/a/makena_base_1.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/k/a/karpet_pink_modry_nilon.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/d/t/dt_326_1_.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/l/e/lemarip_blitar_walnut_b_21_hires.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+        <item>https://cdn-m2.fabelio.com/catalog/product/4/_/4_2_3_1_3.jpg?auto=format&amp;w=798&amp;ixlib=react-9.0.3</item>
+    </string-array>
+</resources>
